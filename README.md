@@ -53,3 +53,5 @@ module.exports = {
 }
 ```
 
+# Credits
+- [Adam Wathan](https://github.com/adamwathan) I used his [Tailwind Custom Forms](https://github.com/tailwindlabs/tailwindcss-custom-forms) plugin as a starting point for this plugin
