@@ -1,0 +1,39 @@
+{
+  "name": "tailwindcss-bootstrap-replacement",
+  "version": "1.0.0",
+  "description": "A drop-in replacement for bootstrap; Useful when converting a bootstrap website to TailwindCSS or just for quickly starting out.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scootersam/tailwindcss-bootstrap-replacement.git"
+  },
+  "keywords": [
+    "tailwind",
+    "tailwindcss",
+    "bootstrap"
+  ],
+  "author": {
+    "name": "Sam Parton",
+    "url": "https://github.com/scootersam"
+  },
+  "contributors": [
+    {
+      "name": "Adam Wathan",
+      "email": "adam.wathan@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/scootersam/tailwindcss-bootstrap-replacement/issues"
+  },
+  "homepage": "https://github.com/scootersam/tailwindcss-bootstrap-replacement#readme",
+  "dependencies": {
+    "lodash": "^4.17.20",
+    "mini-svg-data-uri": "^1.2.3",
+    "traverse": "^0.6.6",
+    "tailwindcss": "^1.8.10"
+  }
+}
